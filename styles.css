@@ -91,7 +91,7 @@ h1 {
   background:
     linear-gradient(hsl(277, 100%, 25%, 0.5),
       hsl(277, 100%, 25%, 0.5)),
-    url(image-header-desktop.jpg);
+    url(pictures/image-header-desktop.jpg);
 }
 
 .attribution {
