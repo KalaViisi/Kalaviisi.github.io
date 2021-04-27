@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 -  [Solution URL](https://github.com/KalaViisi/card-desktop)
-- Live Site URL: [https://kalaviisi.github.io/card-desktop/]
+-  [Live Site URL] (https://kalaviisi.github.io/card-desktop/)
 
 ## My process
 
