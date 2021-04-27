@@ -42,6 +42,6 @@ Users should be able to:
 
 
 ## Author
-- Frontend Mentor - [@KalaViisi](https://www.frontendmentor.io/profile/kalaviisi)
+- Frontend Mentor - [@KalaViisi](https://www.frontendmentor.io/profile/kalaviisi) 
 
 
