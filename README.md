@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://kalaviisi.github.io/card-desktop/](https://kalaviisi.github.io/card-desktop/)
+- Solution URL: [https://github.com/KalaViisi/card-desktop]
+- Live Site URL: [https://kalaviisi.github.io/card-desktop/]
 
 ## My process
 
